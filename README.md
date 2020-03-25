@@ -7,3 +7,11 @@ Robotics have helped humans greatly in achieving everyday tasks. Robots are desi
 <p align="center">
   <img src="https://github.com/sauradip/autonomous_robot_locomotion/blob/master/images/Screenshot%202020-03-25%20at%2010.18.40%20PM.png">
 </p>
+
+# Video Demo 
+
+
+<p align="center">
+  <img src="
+https://github.com/sauradip/autonomous_robot_locomotion/blob/master/images/zig-zag.gif">
+</p>
