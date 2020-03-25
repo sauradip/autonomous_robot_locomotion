@@ -1,1 +1,9 @@
-# autonomous_robot_locomotion
+# Autonomous Robot Locomotion
+
+Robotics have helped humans greatly in achieving everyday tasks. Robots are designed to work in any environment and perform task on behalf of humans. They operate under real-world and real-time constraints where sensors and effectors with specific physical characteristics have to be controlled [1]. In many cases, those robots are controlled manually to move from one destination to another. However a number of studies have been carried out on autonomous robots leading to a whole panoply of potential applications of these autonomous robots [2], [3], [4]. An Unmanned Ground Vehicle (UGV) is a vehicle that operates while in contact with the ground and without an onboard human presence. This type of vehicle is controlled remotely. In the same context, an Autonomous Ground Vehicle (AGV) is a vehicle that is capable of sensing its environment and navigating from one place to another without any human intervention .
+
+# Path Implementation
+
+<p align="center">
+  <img src="https://github.com/sauradip/autonomous_robot_locomotion/blob/master/images/Screenshot%202020-03-25%20at%2010.18.40%20PM.png">
+</p>
