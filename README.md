@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/250030891.svg)](https://zenodo.org/badge/latestdoi/250030891)
+
 # Autonomous Robot Locomotion
 
 Robotics have helped humans greatly in achieving everyday tasks. Robots are designed to work in any environment and perform task on behalf of humans. They operate under real-world and real-time constraints where sensors and effectors with specific physical characteristics have to be controlled. In many cases, those robots are controlled manually to move from one destination to another. An Unmanned Ground Vehicle (UGV) is a vehicle that operates while in contact with the ground and without an onboard human presence. This type of vehicle is controlled remotely. In the same context, an Autonomous Ground Vehicle (AGV) is a vehicle that is capable of sensing its environment and navigating from one place to another without any human intervention . We have used one of such robots to demonstrate the custom path which user can choose. Currently we have implemented 2 such custom paths.
@@ -22,3 +24,8 @@ Robotics have helped humans greatly in achieving everyday tasks. Robots are desi
 * rospy
 * rosgeometric
 * your brain
+
+# References 
+
+
+If you find this code useful in your research, please consider citing using the DOI at the top of this ReadMe
